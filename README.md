@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jason Kim</h1>
 <h3 align="center">ᴡʜᴇɴ ɪ ɢʀᴏᴡ ᴜᴘ ɪ ᴡᴀɴɴᴀ ʙᴇ ғᴀᴍᴏᴜs</h3>
 
-- 💬 Ask me about **react, vue**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
