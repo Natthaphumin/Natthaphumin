@@ -3,8 +3,6 @@
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;About Me</h2>
----
-
 
 ```yaml
 name: Natthaphumin Khamlang
@@ -34,8 +32,6 @@ currently_learning: ["Docker, Node, TypeScript and React Native"]
 2025 Goals: ["Create 2 Projects and learn at React TypeScript, JavaScript."]
 hobbies: ["Gaming"]
 ```
-
----  
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
@@ -60,7 +56,7 @@ hobbies: ["Gaming"]
 </p>
 
 
-<h2 align="left">Support:</h2>
+<h2 align="left">⚡️ &nbsp;Support</h2>
 <p>
   <a href="https://www.buymeacoffee.com/Jason"> 
   <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Jason" />
