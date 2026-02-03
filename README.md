@@ -57,7 +57,7 @@ hobbies: ["Gaming"]
 </p>
 
 
-<h2 align="left">⛅︎ &nbsp;Support</h2>
+<h2 align="left">☼ &nbsp;Support</h2>
 <p>
   <a href="https://www.buymeacoffee.com/Jason"> 
   <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Jason" />
