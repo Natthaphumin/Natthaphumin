@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;About Me</h2>
@@ -15,7 +15,7 @@ education:
   ]
 company: Takeco Engineering Thailand
 
-fields_of_interests:
+interests:
   [
     "Full Stack Development",
     "Web Development",
@@ -28,12 +28,12 @@ technical_background:
     "Full Stack Developer"
   ]
   
-currently_learning: ["Docker, Node, TypeScript and React Native"]
-2025 Goals: ["Create 2 Projects and learn at React TypeScript, JavaScript."]
+learning: ["Node, TypeScript, JavaScript"]
+2026 Goals: ["Create 2 Projects."]
 hobbies: ["Gaming"]
 ```
   
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Tools and Learned</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
