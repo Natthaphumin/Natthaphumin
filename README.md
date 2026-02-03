@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
-<h2> 👨🏻‍💻 &nbsp;About Me</h2>
+<h2> ☻ &nbsp;About Me</h2>
 
 ```yaml
 name: Natthaphumin Khamlang
@@ -33,7 +33,7 @@ learning: ["Node, TypeScript, JavaScript"]
 hobbies: ["Gaming"]
 ```
   
-<h2> 🚀 &nbsp;Tools and Learned</h2>
+<h2> ⚛︎ &nbsp;Tools and Learned</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
@@ -57,7 +57,7 @@ hobbies: ["Gaming"]
 </p>
 
 
-<h2 align="left">⚡️ &nbsp;Support</h2>
+<h2 align="left">⛅︎ &nbsp;Support</h2>
 <p>
   <a href="https://www.buymeacoffee.com/Jason"> 
   <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Jason" />
