@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
-</p>
-
 <h2> ☻ &nbsp;About Me</h2>
 
 ```yaml
@@ -64,7 +60,3 @@ hobbies: ["Gaming"]
 </a>
 </p><br>
 <br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
